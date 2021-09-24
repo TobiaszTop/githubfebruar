@@ -37,6 +37,7 @@ public class Copier {
 	}
 
 	public void makeCopy(int copies){
+		boolean a = (copies<0);
 		if (paperStuck){
 			System.out.println("Papir sidder fast!");
 		}
