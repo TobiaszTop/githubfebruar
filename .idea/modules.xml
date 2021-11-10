@@ -16,8 +16,13 @@
       <module fileurl="file://$PROJECT_DIR$/Day13/Day13.iml" filepath="$PROJECT_DIR$/Day13/Day13.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day14/Day14.iml" filepath="$PROJECT_DIR$/Day14/Day14.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day15/Day15.iml" filepath="$PROJECT_DIR$/Day15/Day15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day16/Day16.iml" filepath="$PROJECT_DIR$/Day16/Day16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day20/Day20.iml" filepath="$PROJECT_DIR$/Day20/Day20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day21/Day21.iml" filepath="$PROJECT_DIR$/Day21/Day21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day22/Day22.iml" filepath="$PROJECT_DIR$/Day22/Day22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day23/Day23.iml" filepath="$PROJECT_DIR$/Day23/Day23.iml" />
       <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fravaer/fravaer.iml" filepath="$PROJECT_DIR$/fravaer/fravaer.iml" />
     </modules>
   </component>
 </project>
